@@ -2,8 +2,6 @@
 Structured workflow for global legal research — layered retrieval of Chinese secondary materials, English authoritative guidelines, law firm commentaries, AI-assisted searches, and local language materials, covering legal issue research in over 180 jurisdictions.
 # Global Law Research Skill
 
-[中文版](README_CN.md)
-
 Claude Code skill for researching global law questions — structured workflow from Chinese/English resources to AI-assisted research.
 
 Based on the methodology from [快速检索外国法问题：从中英文资料到AI的全方位指南！](https://mp.weixin.qq.com/s/5Bf6_KcCJ4XsRHq2NYPzOg) by 文刀二中.
